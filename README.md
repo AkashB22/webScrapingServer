@@ -4,7 +4,7 @@ To run your app:
 
 To interact with the api's:
 1. To scrap data from hindu and save on our local mongoDB use below api
-    http://localhost:3000/articles/save/<month>
+    http://localhost:3000/articles/save/month
   eg: http://localhost:3000/articles/save/01
 
   You can save all articles month-wise to your db.
