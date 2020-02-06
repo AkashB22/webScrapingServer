@@ -10,4 +10,4 @@ To interact with the api's:
   You can save all articles month-wise to your db.
 
 Note:
-1. The Hindu server seems to reject request by sending(status- 429) due to the limitation of request send within a period of them. You will get partial datas.
+1. The Hindu server seems to reject request by sending(status- 429) due to the limitation of request send within a period of time. You will get to save only partial data sometimes.
